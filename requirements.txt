@@ -7,4 +7,5 @@ glob2
 IPython
 pandas
 ultralytics
+gdown
 ## pytorch
