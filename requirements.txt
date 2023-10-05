@@ -1,0 +1,10 @@
+scikit-learn
+tqdm
+Pillow
+numpy
+matplotlib
+glob2
+IPython
+pandas
+ultralytics
+## pytorch
