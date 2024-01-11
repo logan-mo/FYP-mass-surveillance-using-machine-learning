@@ -1,0 +1,7 @@
+path: F:\\Productivity\\Github-Repos\\FYP-mass-surveillance-using-machine-learning
+train: autosplit_train.txt
+val: autosplit_val.txt
+test: autosplit_test.txt
+
+nc: 7
+names: ['black', 'blue', 'green', 'grey', 'red', 'silver', 'white']
