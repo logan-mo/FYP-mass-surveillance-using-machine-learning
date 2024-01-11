@@ -1,0 +1,18 @@
+path:  "F:\\Productivity\\Github-Repos\\FYP-mass-surveillance-using-machine-learning\\car_labels_split"
+train: "images\\train"
+val: "images\\val"
+test: "images\\test"
+
+# class names
+names: 
+  0: van_other
+  1: bus
+  2: car_suzuki
+  3: ar_toyota
+  4: van_toyota
+  5: van_honda
+  6: van_hyundai
+  7: van_suzuki
+  8: car_honda
+  9: car_other
+  10: car_hyundai

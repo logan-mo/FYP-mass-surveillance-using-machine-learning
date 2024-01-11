@@ -1,0 +1,10 @@
+path:  "F:\\Productivity\\Github-Repos\\FYP-mass-surveillance-using-machine-learning\\number_plate_split"
+train: "images\\train"
+val: "images\\val"
+test: "images\\test"
+#test: Samaha's_Annotations/valid
+
+
+# class names
+names: 
+  0: "number_plate"

@@ -17,7 +17,7 @@ import time
 # #%% Veri Setini %80-%10-%10 Train-Test-Val Olarak Bölme
 
 
-base_dir = "data"
+base_dir = "number_plate"
 
 
 image_path = os.path.join(base_dir, "images")

@@ -164,3 +164,9 @@ data/
 split_data/
 *.pt
 *.zip
+training_data/
+car_labels/
+car_classification/
+number_plate/
+car_labels_split/
+number_plate_split/
